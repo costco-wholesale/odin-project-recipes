@@ -1,3 +1,3 @@
 # odin-project-recipes
 
-Test
+This is a recipe book that utlizes a brutish website style
