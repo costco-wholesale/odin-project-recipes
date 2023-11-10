@@ -1,0 +1,6 @@
+.ancestor .child{
+    background-color: hsl(64, 98%, 49%);
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
